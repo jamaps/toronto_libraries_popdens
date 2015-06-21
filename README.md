@@ -1,6 +1,6 @@
 ##### A map comparing public libraries and population density in Toronto:
 
-Feel free to view the map here: http://jamaps.github.io/toronto_libraries_popdens/toronto_libraries_and_popdensity_2550x1650.png
+The map can be viewed online at http://jamaps.github.io/toronto_libraries_popdens/toronto_libraries_and_popdensity_2550x1650.png
 
 ##### On designing the map:
 
